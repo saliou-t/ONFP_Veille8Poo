@@ -1,6 +1,8 @@
 <?php
 
-require('Vehicule.php');
+namespace dossier1;
+
+require('../dossier1/Vehicule.php');
 
 class Voiture extends Vehicule{
 
